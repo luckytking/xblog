@@ -2,3 +2,5 @@ url: https://github.com/luckytking/xblog.github.io
 root: luckting/xblog.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
+include:
+  - ./css
